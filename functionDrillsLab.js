@@ -362,6 +362,13 @@ emailCheck('apple@next.com')
 */
 
 //CODE HERE
+let gold = 90
+let totalFrogs = chocolateFrogs
+
+function chocolateFrogs(gold){
+  gold / 3
+  console.log(gold)
+}
 
 
 ////////////////// PROBLEM 20 ////////////////////
